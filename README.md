@@ -1,5 +1,6 @@
 # aoc-2022
-Advent of code from 2022 
+
+Advent of code from 2022
 
 ### Get input for specific day
 
